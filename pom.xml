@@ -30,7 +30,7 @@
                 </configuration>  
             </plugin>  
         </plugins>  
-        <finalName>brandCtr</finalName>  
+        <finalName>test-jenkins-hellow</finalName>  
     </build>  
 
 
