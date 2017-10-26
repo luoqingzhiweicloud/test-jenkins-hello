@@ -9,6 +9,10 @@
 <groupId>luoqingtest</groupId>
   
   <artifactId>luoqingtest</artifactId>
+  <configuration>
+      <source>1.6</source>
+	  <target>1.6</target>
+  </configuration>
   
   <version>1.0-SNAPSHOT</version>
 	
